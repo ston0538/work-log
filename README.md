@@ -22,3 +22,4 @@
 - [2020/05/10](https://github.com/ston0538/work-log/blob/master/2020/5/10.md)
 - [2020/05/11](https://github.com/ston0538/work-log/blob/master/2020/5/11.md)
 - [2020/05/15](https://github.com/ston0538/work-log/blob/master/2020/5/15.md)
+- [2020/05/16](https://github.com/ston0538/work-log/blob/master/2020/5/16.md)
