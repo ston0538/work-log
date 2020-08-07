@@ -78,3 +78,12 @@
 - [2020/07/26](https://github.com/ston0538/work-log/blob/master/2020/7/26.md)
 - [2020/07/29](https://github.com/ston0538/work-log/blob/master/2020/7/29.md)
 - [2020/07/30](https://github.com/ston0538/work-log/blob/master/2020/7/30.md)
+
+## 2020-8
+
+- [2020/08/02](https://github.com/ston0538/work-log/blob/master/2020/8/02.md)
+- [2020/08/03](https://github.com/ston0538/work-log/blob/master/2020/8/03.md)
+- [2020/08/04](https://github.com/ston0538/work-log/blob/master/2020/8/04.md)
+- [2020/08/05](https://github.com/ston0538/work-log/blob/master/2020/8/05.md)
+- [2020/08/06](https://github.com/ston0538/work-log/blob/master/2020/8/06.md)
+- [2020/08/07](https://github.com/ston0538/work-log/blob/master/2020/8/07.md)
