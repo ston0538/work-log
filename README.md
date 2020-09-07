@@ -104,3 +104,4 @@
 
 - [2020/09/01](https://github.com/ston0538/work-log/blob/master/2020/9/01.md)
 - [2020/09/02](https://github.com/ston0538/work-log/blob/master/2020/9/02.md)
+- [2020/09/07](https://github.com/ston0538/work-log/blob/master/2020/9/07.md)
