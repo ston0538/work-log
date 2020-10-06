@@ -121,3 +121,8 @@
 - [2020/09/25](https://github.com/ston0538/work-log/blob/master/2020/9/25.md)
 - [2020/09/26](https://github.com/ston0538/work-log/blob/master/2020/9/26.md)
 - [2020/09/28](https://github.com/ston0538/work-log/blob/master/2020/9/28.md)
+
+## 2020-10
+
+- [2020/10/05](https://github.com/ston0538/work-log/blob/master/2020/10/05.md)
+- [2020/10/06](https://github.com/ston0538/work-log/blob/master/2020/10/06.md)
