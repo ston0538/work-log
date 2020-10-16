@@ -126,3 +126,6 @@
 
 - [2020/10/05](https://github.com/ston0538/work-log/blob/master/2020/10/05.md)
 - [2020/10/06](https://github.com/ston0538/work-log/blob/master/2020/10/06.md)
+- [2020/10/13](https://github.com/ston0538/work-log/blob/master/2020/10/13.md)
+- [2020/10/15](https://github.com/ston0538/work-log/blob/master/2020/10/15.md)
+- [2020/10/16](https://github.com/ston0538/work-log/blob/master/2020/10/16.md)
